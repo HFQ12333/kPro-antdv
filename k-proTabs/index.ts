@@ -1,0 +1,5 @@
+export * from './src/inst'
+export * from './src/props'
+export * from './src/slots'
+export * from './src/types'
+export { default as KProTabs } from './src/KProTabs.vue'
